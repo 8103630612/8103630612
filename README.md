@@ -9,7 +9,7 @@
 <!-- <img align="right" alt="Coding" width="400" src="./assets/banner.gif" /> -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-[![](https://visitcount.itsvg.in/api?id=sanskarjhala&icon=5&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=8103630612&icon=5&color=5)](https://visitcount.itsvg.in)
 
 
 
